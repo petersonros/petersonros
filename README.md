@@ -1,19 +1,23 @@
 ### Hi there 👋
 ### 🌱 I’m currently learning Front End and JavaScript.
-
 ### ✨ Seeking knowledge. I believe in teamwork as the greatest means of rapid evolution.
-
 
 <div align="left">
   <a href="https://github.com/petersonros">
   <img height="200em" width="450" src="https://github-readme-stats.vercel.app/api?username=petersonros&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="200em" width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=petersonros&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
+<br>
+  
+### ⚡ My languages:
 
 <div align="left"><br>
   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+</div>
+<br>
+<div>    
+      <img height="200em" width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=petersonros&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 <!--
