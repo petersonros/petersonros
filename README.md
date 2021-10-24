@@ -1,6 +1,6 @@
-<h1> Hi there 👋 </h1>
-<p>🌱 I’m currently learning Front End and JavaScript.</p>
-<p>✨ Seeking knowledge. I believe in teamwork as the greatest means of rapid evolution.</p>
+<h1> Hello everyone 👋 </h1>
+<p>I'm currently improving my knowledge of Front End, especially JavaScript.</p>
+<p>Seeking knowledge. I believe in teamwork as the greatest means of rapid evolution.</p>
 
 <h1>- ⚡ Stats </h1>
 
