@@ -7,9 +7,6 @@
   <img height="200em" width="450" src="https://github-readme-stats.vercel.app/api?username=petersonros&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
 <br>
-  
-### ⚡ My languages:
-
 <div align="left"><br>
   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
