@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### 🌱 I’m currently learning JavaScript
 
-### 👯 Seeking knowledge. I believe in teamwork as the greatest means of rapid evolution.
+### 🤔 Seeking knowledge. I believe in teamwork as the greatest means of rapid evolution.
 <!--
 **petersonros/petersonros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
