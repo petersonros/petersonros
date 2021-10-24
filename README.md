@@ -1,3 +1,7 @@
+<!--
+<img height="30%" width="30%" src="https://13r3xq.ch.files.1drv.com/y4m2mH0sv0YSzMggfUhdQvQry7sBZjpSY-qDQVE6OMmy2nAyduTY7qvLp4hceXYPxFdQstfHpVVMH3P4FseI3I9wIFJ2O4IrRZo9KRfUeqezFEX_Dk-7gCa2N32JAyKWtrxgzpB5Khz9ko0YD3VcP4JtnuF6_V4qVvvRZEB_Pf_WnTkYPEjbkT60r4icw2u-zAgnAVPxtY_La7G86m9Fge_2A?width=660&height=495&cropmode=none">
+-->
+
 <h1> Hello everyone 👋 </h1>
 <p>I'm currently improving my knowledge of English and Front End, with a special focus on JavaScript.</p>
 <p>In a constant search for knowledge and motivated by challenges. I believe in teamwork as the greatest means of rapid evolution.</p>
