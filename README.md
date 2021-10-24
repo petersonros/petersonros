@@ -34,10 +34,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-
+-->
+<h1>- ⚡ Snake </h1>
 <div> 
  
   ![Snake animation](https://github.com/petersonros/petersonros/blob/output/github-contribution-grid-snake.svg)
  
 </div>
--->
+
