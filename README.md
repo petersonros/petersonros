@@ -24,6 +24,8 @@
       <img height="200em" width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=petersonros&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
+<h1>- 🤔 I’m looking for help with ...</h1>
+
 <!--
 **petersonros/petersonros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
