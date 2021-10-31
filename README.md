@@ -5,6 +5,7 @@
 <h1> Hello everyone 👋 </h1>
 <p>I'm currently improving my knowledge of English and Front End, with a special focus on JavaScript.</p>
 <p>In a constant search for knowledge and motivated by challenges. I believe in teamwork as the greatest means of rapid evolution.</p>
+<p>- 🤔 I’m looking for help with ...</p>
 
 <h1>- ⚡ Stats </h1>
 
@@ -23,8 +24,6 @@
 <div>    
       <img height="200em" width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=petersonros&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
-
-<h1>- 🤔 I’m looking for help with ...</h1>
 
 <!--
 **petersonros/petersonros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
