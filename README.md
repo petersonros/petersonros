@@ -2,16 +2,13 @@
 <p>I'm currently improving my knowledge of English and Front End, with a special focus on JavaScript.</p>
 <p>In a constant search for knowledge and motivated by challenges. I believe in teamwork as the greatest means of rapid evolution.</p>
 <h1>- ⚡ Stats </h1>
-<div align ="left">
-<a href="https://github.com/petersonros">
-  <img height="200em" width="450" src="https://github-readme-stats.vercel.app/api?username=petersonros&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-</div>
+
 <div>    
   <img height="200em" width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=petersonros&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <br>
 <h1>- ⚡My Skills</h1>
-<div align ="left"><br>
+<div><br>
   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
