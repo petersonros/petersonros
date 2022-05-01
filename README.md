@@ -30,8 +30,8 @@
 
 <h1>- ⚡ I'm interested in</h1>
 <div style="border-bottom: 3px solid #f78733;">
-  <img style="margin:5px; padding:5px; border:1px solid #cccccc; border-radius:15px; height:105px; width:105px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg?raw=true"> 
-  <img style="margin: 5px; padding: 5px; border: 1px solid #cccccc; border-radius: 15px; height:65px; width:65px;" height="65px" width="65px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg?raw=true"> 
+  <img style="margin:5px; padding:5px; border:2px; border-style:solid; border-color:#cccccc; border-radius:15px; height:105px; width:105px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg?raw=true"> 
+  <img style="margin: 5px; padding: 5px; border:1px; border-radius: 15px; height:65px; width:65px;" height="65px" width="65px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg?raw=true"> 
   <img style="margin: 5px; padding: 5px; border: 1px solid #cccccc; border-radius: 15px; height:65px; width:65px;" height="65px" width="65px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg?raw=true"> 
   <img style="margin: 5px; padding: 5px; border: 1px solid #cccccc; border-radius: 15px; height:65px; width:65px;" height="65px" width="65px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg?raw=true"> 
 </div> 
