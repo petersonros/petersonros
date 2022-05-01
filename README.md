@@ -29,10 +29,10 @@
 <br>
 <h1>- ⚡ I'm interested in</h1>
 <div>
-  <img height="65px" width="65px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img height="65px" width="65px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-  <img height="65px" width="65px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img height="65px" width="65px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+  <img height="65px" width="65px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg?raw=true">
+  <img height="65px" width="65px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg?raw=true">
+  <img height="65px" width="65px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg?raw=true">
+  <img height="65px" width="65px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg?raw=true">
 </div>
 <br>
 <h1>Challenges ONE Oracle Next Education</h1>
@@ -41,3 +41,7 @@
   <img height="200px" width="200px" src="./img/cms_files_10224_1644516322badge.png">
   <img height="200px" width="200px" src="./img/cms_files_10224_1645569241Insignia_3.png">
 </div>
+
+![Image height="200px" width="200px"](https://d335luupugsy2.cloudfront.net/cms%2Ffiles%2F10224%2F1645569241Insignia_3.png?utm_campaign=alura_latam_-_challenge_email_projeto_3_br&utm_medium=email&utm_source=RD+Station?raw=true)
+
+  <img height="200px" width="200px" src="https://d335luupugsy2.cloudfront.net/cms%2Ffiles%2F10224%2F1645569241Insignia_3.png?utm_campaign=alura_latam_-_challenge_email_projeto_3_br&utm_medium=email&utm_source=RD+Station?raw=true">
