@@ -37,9 +37,9 @@
 <br>
 <h1>Challenges ONE Oracle Next Education</h1>
 <div>
-  <img height="200px" width="200px" src="./img/cms_files_10224_1644515575BADGE_2.png">
-  <img height="200px" width="200px" src="./img/cms_files_10224_1644516322badge.png">
-  <img height="200px" width="200px" src="./img/cms_files_10224_1645569241Insignia_3.png">
+  <img height="200px" width="200px" src="./img/cms_files_10224_1644515575BADGE_2.png?raw=true">
+  <img height="200px" width="200px" src="./img/cms_files_10224_1644516322badge.png?raw=true">
+  <img height="200px" width="200px" src="./img/cms_files_10224_1645569241Insignia_3.png?raw=true">
 </div>
 
 ![Image height="200px" width="200px"](https://d335luupugsy2.cloudfront.net/cms%2Ffiles%2F10224%2F1645569241Insignia_3.png?utm_campaign=alura_latam_-_challenge_email_projeto_3_br&utm_medium=email&utm_source=RD+Station?raw=true)
