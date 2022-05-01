@@ -1,6 +1,10 @@
 <h1> Hello everyone 👋 </h1>
-<p>I'm currently improving my knowledge of English and Front End, with a special focus on JavaScript.</p>
-<p>In a constant search for knowledge and motivated by challenges. I believe in teamwork as the greatest means of rapid evolution.</p>
+
+```
+I'm currently improving my knowledge of English and Front End, with a special focus on JavaScript.
+In a constant search for knowledge and motivated by challenges. I believe in teamwork as the greatest means of rapid evolution.
+```
+
 <h1>- ⚡ Stats </h1>
 <div style="border:3px;border-bottom:solid;border-color:#f78733;">    
   <img height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=petersonros&layout=compact&langs_count=7&theme=tokyonight"/>
