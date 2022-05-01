@@ -2,8 +2,8 @@
 <p>I'm currently improving my knowledge of English and Front End, with a special focus on JavaScript.</p>
 <p>In a constant search for knowledge and motivated by challenges. I believe in teamwork as the greatest means of rapid evolution.</p>
 <h1>- ⚡ Stats </h1>
-<div style="border-bottom: 3px solid #f78733;">    
-  <img height="200px" width="750px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=petersonros&layout=compact&langs_count=7&theme=tokyonight"/>
+<div style="border:3px; border-bottom:solid; border-color:#088c19; align-items:center;">    
+  <img height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=petersonros&layout=compact&langs_count=7&theme=tokyonight"/>
 </div><br><br>
 
 <h1>- ⚡My Skills</h1>
