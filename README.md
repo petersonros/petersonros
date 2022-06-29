@@ -2,10 +2,10 @@
 <p>I'm currently improving my knowledge of English and Front End, with a special focus on JavaScript.</p>
 <p>In a constant search for knowledge and motivated by challenges. I believe in teamwork as the greatest means of rapid evolution.</p>
 
-<h1>- ⚡ Stats </h1>
-<div>    
+<!-- <h1>- ⚡ Stats </h1>
+<div>
   <img height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=petersonros&layout=compact&langs_count=7&theme=tokyonight"/>
-</div><br><br>
+</div><br><br> -->
 
 <h1>- ⚡My Skills</h1>
 <div>
@@ -18,24 +18,24 @@
 </div>
 <br><br>
 
-<h1>- ⚡ I am learning</h1>
+<h1>- ⚡ I'm learning</h1>
 <div>
   <img height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"> 
-  <img height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> 
-  <img height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg"> 
-  <img height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"> 
-  <img height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"> 
+  <img height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+  <img height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg">
+  <img height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
+  <img height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
 </div>
 <br><br>
 
 <h1>- ⚡ I'm interested in</h1>
 <div>
-  <img height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg?raw=true"> 
-  <img height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg?raw=true"> 
-  <img height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg?raw=true"> 
-  <img height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg?raw=true"> 
-</div> 
+  <img height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg?raw=true">
+  <img height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg?raw=true">
+  <img height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg?raw=true">
+  <img height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg?raw=true">
+</div>
 <br><br>
 
 <h1>- ⚡ Challenges ONE Oracle Next Education</h1>
