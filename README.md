@@ -43,4 +43,5 @@
   <img height="200px" width="200px" src="./img/cms_files_10224_1644515575BADGE_2.png?raw=true">
   <img height="200px" width="200px" src="./img/cms_files_10224_1644516322badge.png?raw=true">
   <img height="200px" width="200px" src="./img/cms_files_10224_1645569241Insignia_3.png?raw=true">
+  <img height="200px" width="200px" src="./img/cms_files_10224_1650486791insignia.png?raw=true">
 </div>
