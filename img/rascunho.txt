@@ -1,0 +1,29 @@
+<h1 align="center">⚡Challenges ONE Oracle Next Education</h1>
+
+    💻 - Texto Codificado
+<img height="200px" width="200px" src="./img/cms_files_10224_1644515575BADGE_2.png?raw=true">
+
+<br>
+
+    💻 - Jogo da Forca
+<img height="200px" width="200px" src="./img/cms_files_10224_1644516322badge.png?raw=true">
+
+<br>
+
+    💻 - Portfolio
+<img height="200px" width="200px" src="./img/cms_files_10224_1645569241Insignia_3.png?raw=true">
+
+<br>
+
+    💻 - Alura Geek
+<img height="200px" width="200px" src="./img/cms_files_10224_1650486791insignia.png?raw=true">
+
+<br>
+
+    💻 - Decodificador de Moedas
+<img height="200px" width="200px" src="./img/cms_files_10224_1653263999Badge_JAVA_Alura_ChallengeOracleONE_2000x2000.png?raw=true">
+
+<br>
+
+    💻 - Hotel Alura
+<img height="200px" width="200px" src="./img/cms_files_10224_1655464335Badge_First_Alura_ChallengeOracleONE_2000x2000_V3.png?raw=true">
