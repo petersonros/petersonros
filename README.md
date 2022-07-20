@@ -11,18 +11,15 @@ Como programador CNC ganhei experiencia em resolução de conflitos e trabalho e
 
 # Principais habilidades e características
 ## Principais certificados
-
 - [Front end - HTML 5, CSS3, JS](https://cursos.alura.com.br/degree/certificate/8690958b-0a1e-41ff-b8c9-1f67b35e6b64)
 - [Lógica de programação – JS – Git e GitHub](https://cursos.alura.com.br/degree/certificate/d895918b-2319-4665-991b-419d738a1b7b)
 - [Java e Orientação a objetos](https://cursos.alura.com.br/degree/certificate/eebff43e-d3bd-46cd-afa6-94b309a01f29)
 - [Desenvolvimento Pessoal](https://cursos.alura.com.br/degree/certificate/fca96726-2643-420d-928e-4cd9ee142e55)
 - [Empreendedorismo](https://cursos.alura.com.br/degree/certificate/ce43c818-c794-46c8-b1f7-b80cde30a395)
 - [Business Agility](https://cursos.alura.com.br/degree/certificate/323e10a5-f9d9-4a09-9b89-5652d2f19bcb)
-
 <br>
 
 ## Habilidades
-
 <div>
 <img height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
 <img height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
@@ -37,7 +34,6 @@ Como programador CNC ganhei experiencia em resolução de conflitos e trabalho e
 
 # Atividades e interesses
 ## Aprendendo
-
 <div>
 <img height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
 <img height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
@@ -49,7 +45,6 @@ Como programador CNC ganhei experiencia em resolução de conflitos e trabalho e
 <br><br>
 
 ## Interesses
-
 <div>
 <img height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg?raw=true">
 <img height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg?raw=true">
@@ -67,6 +62,7 @@ Como programador CNC ganhei experiencia em resolução de conflitos e trabalho e
 - Suco natural
 - Boa comida
 
+<br><br>
 <br><br>
 
 <img height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=petersonros&layout=compact&langs_count=7&theme=tokyonight"/>
