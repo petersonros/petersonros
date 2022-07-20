@@ -22,7 +22,7 @@ Como programador CNC ganhei experiencia em resolução de conflitos e trabalho e
 <br>
 
 ## Habilidades
-<br>
+
 <div>
 <img height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
 <img height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
@@ -37,7 +37,7 @@ Como programador CNC ganhei experiencia em resolução de conflitos e trabalho e
 
 # Atividades e interesses
 ## Aprendendo
-<br>
+
 <div>
 <img height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
 <img height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
@@ -49,7 +49,7 @@ Como programador CNC ganhei experiencia em resolução de conflitos e trabalho e
 <br><br>
 
 ## Interesses
-<br>
+
 <div>
 <img height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg?raw=true">
 <img height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg?raw=true">
