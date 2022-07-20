@@ -6,7 +6,6 @@ Estudando programação em transição de carreira. Desejo atuar inicialmente co
 <p>
 Como programador CNC ganhei experiencia em resolução de conflitos e trabalho em equipe, sempre com foco na busca de soluções que atenda as necessidades da empresa e seus clientes.
 </p>
-
 <br><br>
 
 # Principais habilidades e características
@@ -51,18 +50,6 @@ Como programador CNC ganhei experiencia em resolução de conflitos e trabalho e
 <img height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg?raw=true">
 </div>
 
-<br>
-
-- Tecnologia
-- Software
-- Hardware
-- Skate
-- Música
-- Filmes
-- Suco natural
-- Boa comida
-
-<br><br>
 <br><br>
 
 <img height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=petersonros&layout=compact&langs_count=7&theme=tokyonight"/>
