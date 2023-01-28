@@ -36,4 +36,3 @@
 <img height="35px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg?raw=true">
 <img height="35px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg?raw=true">
 </div>
-<br><br>
