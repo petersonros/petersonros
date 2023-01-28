@@ -1,5 +1,4 @@
 # **Front-End Junior** desenvolvendo habilidades **Full-Stack**.
-<br>
 
 ## **Principais certificados**
 - [Front end - HTML 5, CSS3, JS](https://cursos.alura.com.br/degree/certificate/8690958b-0a1e-41ff-b8c9-1f67b35e6b64)
@@ -8,7 +7,6 @@
 - [Desenvolvimento Pessoal](https://cursos.alura.com.br/degree/certificate/fca96726-2643-420d-928e-4cd9ee142e55)
 - [Empreendedorismo](https://cursos.alura.com.br/degree/certificate/ce43c818-c794-46c8-b1f7-b80cde30a395)
 - [Business Agility](https://cursos.alura.com.br/degree/certificate/323e10a5-f9d9-4a09-9b89-5652d2f19bcb)
-<br>
 
 ## **Principais habilidades**
 <div>
@@ -23,7 +21,6 @@
 <img height="35px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg?raw=true">
 <img height="35px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg?raw=true">
 </div>
-<br>
 
 ## **Atividades e interesses**
 <div>
