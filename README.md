@@ -1,4 +1,4 @@
-# **Front-End Junior** desenvolvendo habilidades **Full-Stack**.
+# **Front-End** desenvolvendo habilidades **Full-Stack**.
 
 ## **Principais certificados**
 - [Front end - HTML 5, CSS3, JS](https://cursos.alura.com.br/degree/certificate/8690958b-0a1e-41ff-b8c9-1f67b35e6b64)
