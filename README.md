@@ -1,5 +1,11 @@
 # **Front-End** desenvolvendo habilidades **Full-Stack**.
 
+```JavaScript
+while (true) {
+    learn();
+}
+```
+
 ## **Principais certificados**
 - [Front end - HTML 5, CSS3, JS](https://cursos.alura.com.br/degree/certificate/8690958b-0a1e-41ff-b8c9-1f67b35e6b64)
 - [Lógica de programação – JS – Git e GitHub](https://cursos.alura.com.br/degree/certificate/d895918b-2319-4665-991b-419d738a1b7b)
