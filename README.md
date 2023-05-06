@@ -1,22 +1,16 @@
-# **Front-End** desenvolvendo habilidades **Full-Stack**.
-
-<div width="300px">
+# **Front-End** developing **Full-Stack** skills.
 
 ```JavaScript
 while (true) {
   learn();
 };
 ```
-</div>
-
-<div width="300px">
 
 ```JavaScript
 // I deleted my certificates because I never believed them.
 ```
-</div>
 
-## **Principais habilidades**
+# **Activities and interests**
 <div>
 <img height="35px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg?raw=true">
 <img height="35px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg?raw=true">
@@ -28,10 +22,6 @@ while (true) {
 <img height="35px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg?raw=true">
 <img height="35px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg?raw=true">
 <img height="35px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg?raw=true">
-</div>
-
-## **Atividades e interesses**
-<div>
 <img height="35px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg?raw=true">
 <img height="35px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg?raw=true">
 <img height="35px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg?raw=true">
